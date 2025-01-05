@@ -1,0 +1,3 @@
+belajar latihan clone dan clone repository dari github ke local/laptop 
+tambahkan file latihan.txt di local
+commit dengan message "belajar"
